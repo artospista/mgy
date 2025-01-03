@@ -1,0 +1,97 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li><a href="index.php?id=m140">A lovak</a></li>
+		<li><a href="index.php?id=m240">Akkor és most</a></li>
+		<li class="aktiv">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Fiúk és lányok</h2>
+<div id="content-bent">
+
+<?php include ('diakmenu'); ?>
+
+<p align="center"><img src="photos/m340/image013.jpg"></p>
+Nevem: Körmendi Lotti , 14 éves vagyok.<br><br>
+
+Lovam: Lovam Kemal-Tomi 10 éves herélt.<br><br>
+
+Lovam és saját magam életútja: Tomi 5 éves kora óta van velem. Mielőtt hozzám került díjugrattak vele. Én is ugrottam vele kisebb akadályokat , de inkább idomítani szerettem volna vele.<br><br>
+
+Mikor és miért kezdtem el a ló központú lóhoz állást elsajátítani?<br><br>
+
+Rájöttem, hogy a lovam nem igazán akar velem lenni, és így nem is élveztem annyira a lovaglást.<br>
+De őt mindentől függetlenül nagyon szerettem.<br>
+Szüleim az akkori edzőmön keresztül jutottak el Mészáros Gyulához, aki felnyitotta szemen, hogy a lovakkal másként is lehet bánni.<br>
+
+Milyen változást okozott lovamban és bennem a váltás?<br><br>
+
+Rengeteg változás történt köztem és a lovam között.<br>
+Régebben nem lehetett a fejéhez érni és még megmosni sem, most viszont akár dögönyözhetem is.<br>
+Végre együtt vagyunk. Felszabadultan vágtázik, üget és lép.<br>
+És még sok-sok mindent tudunk csinálni, amit régen nem.<br><br>
+
+Milyen céljaim voltak, vannak lovammal, magammal kapcsolatban?<br><br>
+
+Szeretnék biztonságosan lovagolni, terepre menni, és olyan kapcsolatot kialakítani a lovammal, hogy bármilyen helyzetben megbízzon bennem.<br><br>
+
+Kinek és miért ajánlom a „más”-féle lóhoz állást?<br><br>
+
+Ajánlom mindenkinek, mert ez egy csodálatos utazás ló és ember között.<br>
+És az eredmény is csodálatos.<br>
+Remélem minél többen bánnak majd úgy a lovakkal, ahogyan azok megérdemlik.<br><br>
+
+Körmendi Lotti<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

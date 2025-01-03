@@ -1,0 +1,222 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<link rel="icon" href="mgyicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="mgyicon.ico" type="image/x-icon" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<?php include ('hirekmenu'); ?>
+		<li><a href="index.php?id=m010">Ahogyan a lovak szeretn&eacute;k</a></li>
+		<li><a href="index.php?id=m020">Ismerj meg</a></li>
+		<li><a href="index.php?id=m030">L&oacute; mestereim</a></li>
+		<li><a href="index.php?id=m040">Di&aacute;kjaim</a></li>
+		<li><a href="index.php?id=m050">Ahol és amikor tal&aacute;lkozhatsz velünk</a></li>
+		<li><a href="index.php?id=m060">Oktat&aacute;s</a></li>
+		<li><a href="index.php?id=m070">Kapcsol&oacute;d&oacute; &iacute;r&aacute;sok</a></li>
+		<li><a href="index.php?id=m080">Ahogyan a lovakat szeretitek</a></li>
+		<li><a href="index.php?id=m090">Linkek</a></li>
+		<li><a href="index.php?id=m011">Bolt</a></li>
+		<li><a href="index.php?id=m012">Vendégkönyv</a></li>
+		<li class="last"><a href="index.php?id=m013">Kép és</a><a href="index.php?id=m014">&nbsp;videó galéria</a></li>
+		
+		<li class="first">Elérhetőség:</li>
+		<li class="none">Mészáros Gyula</li>
+		<li class="none">+36 20 576 50 50</li>
+		<li class="mail"><a href="mailto:natural-horsemanship@mgy.hu">natural-horsemanship@mgy.hu</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>H&iacute;rek, újdonságok, aj&aacute;nl&aacute;sok, aktualit&aacute;sok</h2>
+<div id="content-bent">
+
+
+<b>Kiemelten ajánlom</b>
+<br><br>
+
+<table border="0" width="96%">
+<tr><td rowspan="3" valign="top"><img class="img" src="images/m000/nevzorov.gif"></td>
+<td valign="top">Mint Alexander Nevzorov filmjeinek hivatalos magyarországi forgalmazója, valamennyi ló szerető ember számára ajánlom az alábbi két filmet! - mgy</td></tr>
+<tr><td valign="bottom" height="10">Nevzorov Lóenciklopédia (DVD) 6.900,- Ft+ csomagolás és postaköltség... <a class="news" href="index.php?id=m211">tovább</a></td></tr>
+<tr><td valign="bottom" height="20">Nevzorov Magas Iskola (DVD) 6.900,- Ft+ csomagolás és postaköltség... <a class="news" href="index.php?id=m311">tovább</a></td></tr>
+</table>
+
+<br><br>
+
+<p class="newshead">Napi hírek, közzététel időpontja:</p>
+
+<p class="news">2008. szeptember 10.</p>
+Őszi "mgy" programok! <a class="news" href="reklam04.jpg" target="_blank">tovább</a>
+<p class="news">2008. június 27.</p>
+Nyílt nap az Erőszakmentes lóhoz állásért Augusztus 2-án
+Váckisújfalun <a href="http://www.mgy.hu/index.php?id=m250" target="_blank" class="news">részletek</a>
+<p class="news">2008. június 27.</p>
+Ahogyan Monty ideért Magyarországra
+ <a href="anyagok/monty_roberts_ideert.doc" target="_blank" class="news">részletek</a>
+ <p class="news">2008. június 19.</p>
+Legközelebbi &quot;mgy&quot; kurzusok Törökbálinton és Nemesnépen <a class="news" href="http://www.mgy.hu/index.php?id=m061">tovább</a>
+
+<p class="news">2008. június 16.</p>
+A következő Klubdélután időpontja június 28 - 15h Váckisújfalu
+
+<p class="news">2008. június 5.</p>
+Nyári "mgy" programok! <a class="news" href="hir02.htm" target="_blank">tovább</a><br>
+
+<p class="news">2008. május 27.</p>
+2008. május 31 - június 1.-ig kurzus Nemesnépen és 2008. május 31-én Klubdélután Alsószenterzsébeten!! <a class="news" href="hir01.htm" target="_blank">tovább</a><br>
+
+<p class="news">2008. január 24.</p>
+2008 január 25. péntek 17h - Az új év első Klubdélutánja!... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2008. január 18.</p>
+2008. január 20-án vasárnap 13:00h-tól rövid bemutató a Csillaghegyen... <a class="news" href="index.php?id=m050">tovább</a><br>
+
+<p class="news">2008. január 15.</p>
+Megbotlik a lólélek - Interjú Mészáros Gyulával a Szabad Föld című hetilapban... <a class="news" href="http://www.szabadfold.hu/cikk.php?cikk=10962" target="_blank">tovább</a><br>
+
+<p class="news">2007. november 12.</p>
+(L)óévbúcsúztató nyílt nap és klubdélután a természetes lókiképzés jegyében 2007 december 15-én... <a class="news" href="index.php?id=m150">tovább</a><br>
+Vendégkönyv, Gáspár Zselyke... <a class="news" href="index.php?id=m012#071112">tovább</a><br>
+Vendégkönyv, Müller Péter: Szeretetkönyv (részlet)... <a class="news" href="index.php?id=m012#071112a">tovább</a><br>
+
+<p class="news">2007. október 26.</p>
+Nyílt edzés és Klubdélután október 26-án... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2007. október 12.</p>
+2 napos kurzus Zala megyében... <a class="news" href="index.php?id=m061">tovább</a><br>
+
+<p class="news">2007. október 2.</p>
+az Erőszakmentesség Nemzetközi Világnapja... <a class="news" href="index.php?id=mh01">tovább</a><br>
+
+<p class="news">2007. szeptember 21.</p>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2007. szeptember 10.</p>
+Kurzusok és Eseti Oktatások... <a class="news" href="index.php?id=m061">tovább</a><br>
+
+<p class="news">2007. augusztus 24.</p>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2007. augusztus 17.</p>
+"mgy" TÁBOROK... <a class="news" href="index.php?id=m064">tovább</a><br>
+Bemutatók... <a class="news" href="index.php?id=m050">tovább</a><br>
+
+<p class="news">2007. augusztus 13.</p>
+Vendégkönyv, Molnár Rita... <a class="news" href="index.php?id=m012#070813">tovább</a><br>
+
+<p class="news">2007. július 19.</p>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+Kurzusok és Eseti Oktatások... <a class="news" href="index.php?id=m061">tovább</a><br>
+
+<p class="news">2007. július 03.</p>
+Vendégkönyv, Godó István... <a class="news" href="index.php?id=m012#070707">tovább</a><br>
+
+<p class="news">2007. június 28.</p>
+Vendégkönyv, Tímea köszönete... <a class="news" href="index.php?id=m012#070628">tovább</a><br>
+Képes beszámoló a Lovas Juniálisról az&nbsp;<img class="img" src="images/mtv1.jpg">&nbsp; műsorán, 2007. július 1., Vasárnap 14.30h, Feszti körkép
+
+<p class="news">2007. június 25.</p>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2007. június 15.</p>
+<font color="#ff0000">Figyelem! Bemutatók-Klub hétvége-Közönségtalálkozó! 2007 június 23-24.</font>&nbsp;<a class="news" href="index.php?id=hetvege070623" target="_blank">Részletek</a><br>
+
+<p class="news">2007. június 13.</p>
+Képgaléria... A korábban körmölhetetlen Zahid második körmölése&nbsp;<a class="news" href="index.php?id=m013">tovább</a><br>
+
+<p class="news">2007. május 29.</p>
+Vendégkönyv, "Mégis él Örkény tábor" - Attila köszönete... <a class="news" href="index.php?id=m012#070529">tovább</a><br>
+
+<p class="news">2007. május 24.</p>
+Videógaléria... <a class="news" href="index.php?id=m014">tovább</a><br>
+
+<p class="news">2007. május 21.</p>
+"Nem minden Természetes, amit annak mondanak!..."  - Szigeti Zsuzsi köszönete...&nbsp;<a class="news" href="index.php?id=m1706">tovább</a><br>
+
+<p class="news">2007. május 17.</p>
+<font color="#ff0000"><b>A Tápiószentmárton-Kincsem Lovaspark - 2007 május 19.-ére tervezett bemutató a május 15. vihar okozta károk miatt sajnálatosan elmarad!</b></font><br>
+"Ne próbáljunk a helytelenen keresztül, helyeset elérni!" - Ray Hunt&nbsp;&nbsp;<a class="news" href="photos/m013/image20070517.jpg" "target="blank">Kép megtekintése</a><br>
+<p class="news">2007. május 10.</p>
+
+Videógaléria... <a class="news" href="index.php?id=m014">tovább</a><br>
+Képgaléria... <a class="news" href="index.php?id=m013">tovább</a><br>
+Gondolatok, átélt élmények, események: Zahid körmölése... <a class="news" href="index.php?id=m1704">tovább</a><br>
+Gondolatok, átélt élmények, események: KisSophie imprint... <a class="news" href="index.php?id=m1705">tovább</a><br>
+
+<p class="news">2007. május 8.</p>
+
+Bemutatók... <a class="news" href="index.php?id=m050">tovább</a><br>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+Kurzusok és Eseti Oktatások... <a class="news" href="index.php?id=m061">tovább</a><br>
+
+<p class="news">2007. április 26.</p>
+
+Bemutatók... <a class="news" href="index.php?id=m050">tovább</a><br>
+
+<p class="news">2007. április 23.</p>
+
+Gondolatok, átélt élmények, események: Dupla élvezet... <a class="news" href="index.php?id=m1703">tovább</a><br>
+
+<p class="news">2007. április 20.</p>
+
+Bemutatók... <a class="news" href="index.php?id=m050">tovább</a><br>
+Nyílt edzés és klubdélután... <a class="news" href="index.php?id=m150">tovább</a><br>
+
+<p class="news">2007. április 12.</p>
+
+Émi "baba" szállítása... <a class="news" href="index.php?id=m1702">tovább</a><br>
+Videógaléria... <a class="news" href="index.php?id=m014">tovább</a><br>
+
+<p class="news">2007. április 5.</p>
+
+Nyílt nap, konferencia...  <a class="news" href="index.php?id=m250">tovább</a><br>
+
+<br><br>
+<a href="index.php?id=m000#top">Az oldal tetejére</a>
+<br><br><br>
+<?php include ('copyright'); ?>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li class="aktiv">Ló "mestereim"</li>
+		<li><a href="index.php?id=m130">Claudius</a></li>
+		<li><a href="index.php?id=m230">Commander</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Ló "mestereim"</h2>
+<div id="content-bent">
+
+Előszó<br><br>
+Az igazság az, hogy megpróbálhatnék sorrendet állítani azok között a tényezők között, amelyek meghatározzák egy oktató, tanító, tanár vagy edző folyamatos fejlődését, de egyszerűen nem megy. Honza Blaha egyik mestere, David Lychman – akinek Honza sokat köszönhet – a következőket mondta:<br><br>
+
+„Nagyon sokat köszönhetek a Mestereimnek, de talán még többet a Lovaknak, de a legtöbbet a diákjaimnak!”<br><br>
+
+Én is ide jutottam, hogy ez a három tényező az, ami engem is „képez”, igazgat az utamon. Viszont, ahogyan említettem én nem tudok sorrendet állítani közöttük, mivel számomra mindegyiknek egyforma szerepe van fejlődésem szempontjából. Ez olyan, mintha megkérdeznének egy festőt, hogy mi a fontosabb számára: az ecset, a vászon vagy a festékek?<br>
+Talán annyit lehet érzésem szerint elmondani a három tényezőről, ami megkülönböztetheti őket, hogy egymáshoz képest az arányuk térhet el. Ez, pedig helyzettől függ, amely minden nap, de minden órában, sőt minden másodpercben más.<br><br>
+
+Az előbbiekben felsorolt okok miatt, érthető módon nem is emelhetnék ki külön két lovat, mint „meghatározóbbak”. Viszont, mivel velük folyamatosan és csak én foglalkozom, meghatározóbbakká, legalább is állandó „beszélgetotársakká” váltak. Így lehetséges, hogy Commandernek és Claudiusnak külön részeket szenteltem, semmi esetre sem elfelejtkezve az összes többi „ló diákomról”, akiknek hálás köszönettel tartozom eltérő egyéniségeik és problémáik miatt, amelyekből nagyon sokat tanulhattam és tanulok.<br><br>
+
+Ray Hunt egy mondása kívánkozik ide:<br>
+
+<p align="center">„Rengeteg lehetőség kínálkozik – a tanulásra és a tanításra – a problémák közepette!”</p>
+
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m060">Állandó helyszínek</a></li>
+		<li><a href="index.php?id=m061">Kurzusok és Eseti Oktatások</a></li>
+		<li><a href="index.php?id=m064">Táborok</a></li>
+		<li class="aktiv">Ajánlott Irodalom</li>
+		<li><a href="index.php?id=m063">Ajánlott Filmek</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                            <td valign="top">
+<h2>Oktat&aacute;s</h2>
+<h3>Ajánlott Irodalom</h3>
+<div id="content-bent">
+
+Lt. Col. A. L. d'Enr&ouml;dy - Give Your Horse A Chance - Endr&ouml;dy Agoston: Adj esélyt a lovadnak (Magyar cím: A military ló kiképzése)<br>
+	<img class="img_oktatas" src="images/oktatas_irodalom/small_001.jpg"><br>
+Gr&oacute;f Erdődy P&aacute;lffy Zsigmond - A lovagl&aacute;s vez&eacute;rfonala (Tan&aacute;csok gondolkod&oacute; lovasoknak)<br>
+	<img class="img_oktatas" src="images/oktatas_irodalom/small_002.jpg"><br>
+Gr&oacute;f Sz&eacute;ch&eacute;nyi D&eacute;nes - Adal&eacute;kok a lovagl&aacute;s tan&iacute;t&aacute;s&aacute;hoz<br>
+	<img class="img_oktatas" src="images/oktatas_irodalom/small_003.jpg"><br>
+Gondolatok a lovagl&aacute;sr&oacute;l (&Ouml;rk&eacute;ny t&aacute;bori lovagl&oacute; tan&aacute;rok &iacute;r&aacute;sai)<br>
+	<img class="img_oktatas" src="images/oktatas_irodalom/small_004.jpg"><br>
+Lovagl&oacute;tan&aacute;rok a lovagl&aacute;sr&oacute;l (&Ouml;rk&eacute;ny t&aacute;bori lovagl&oacute; tan&aacute;rok &iacute;r&aacute;sai)<br>
+	<img class="img_oktatas" src="images/oktatas_irodalom/small_005.jpg"><br>
+<br>
+<a href="index.php?id=m062#top">Az oldal tetejére</a><br><br>
+<?php include ('copyright'); ?>
+</div>
+                            </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

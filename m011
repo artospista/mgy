@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li class="aktiv">Bolt</li>
+		<li><a href="index.php?id=m111">Eszközök</a></li>
+		<li><a href="index.php?id=m211">Filmek</a></li>
+		<li><a href="index.php?id=m411">Jp.Gábor festményei</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Bolt</h2>
+<div id="content-bent">
+
+A boltban található termékeket a következő e-mail címen lehet megrendelni.<br><br>
+<a href="mailto:natural-horsemanship@mgy.hu?subject=bolt">natural-horsemanship@mgy.hu</a><br><br>
+Érdeklődni ugyanezen a címen és a következő mobilszámon lehetséges:<br><br>
+06/20-576-5050
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

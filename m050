@@ -1,0 +1,136 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li class="aktiv">Bemutatók</li>
+		<li><a href="index.php?id=m150">Nyílt edzés és klubdélután</a></li>
+		<li><a href="index.php?id=m250">Nyílt nap, konferencia</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                      <td valign="top">
+<h2>Bemutatók</h2>
+<div id="content-bent">
+
+<!--
+<table cellpadding="0" cellspacing="0" width="660" border="0">
+    <tr>
+        <td valign="top" width="100">
+            <p>Időpont:</p>
+        </td>
+        <td>
+            2008. Január 20.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>Helysz&iacute;n:</p>
+        </td>
+        <td>
+            <p>Csillaghegy, Aranypatkó Lovarda</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+            <p>Commander-Gyuszi, Tramini-Móni részvételével</p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>Megközelítés:
+        </td>
+        <td>
+            <p>A lovarda az óbudai temetőt a csillaghegyi stranddal összekötő út mentén található.<br>Az Árpád híd felől:<br>
+<b><font color="#008000">Árpád híd</font> - <font color="#0000ff">Vörösvári út</font> - <font color="#008000">Bécsi út</font> - <font color="#0000ff">Temető főbejárat előtt jobbra</font> - <font color="#008000">végig a temető mellett</font> - <font color="#0000ff">Vasúti átkelőnél bal oldalon lesz 4-5 ház</font>, <font color="#008000">az utolsó az Aranypatkó Lovarda. Utána már csak rét van, és van rajta egy új, nagy fehér sátor.</font></b>
+        </td>
+        <td>
+</table>
+
+<br><br><br>
+
+
+<table cellpadding="0" cellspacing="0" width="660" border="0">
+    <tr>
+        <td valign="top" width="80">
+            <p>Időpont:</p>
+        </td>
+        <td>
+            <strike>2007. szeptember 14. - a zala megyei kurzust megelőző pénteken az esti órákban, kb 18:00-kor</strike>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <p>Helysz&iacute;n:</p>
+        </td>
+        <td>
+            <p><strike>Nemesnép (Zala megye)&nbsp;<a href="http://www.nemesnep.hu/terkep/tnemesnep.htm" target="_blank">térkép</a></strike><br>
+            <a href="http://www.abbazia-nemesnep.hu" target="_blank">Abbázia Country Club</p>
+        </td>
+    </tr>
+</table>
+
+
+<br>
+<strike>Tápiószentmárton-Kincsem Lovaspark - 2007 május 19.</strike><br>
+<br>
+<strike>Hajógyári sziget - Lovas Juniális - 2007 június 23-24.</strike>
+<br><br><br>
+-->
+<p>Minden Kedves érdeklődő figyelmébe!<br>
+    <br>
+  Amennyiben érdeklődik lóhoz állásunkkal, módszerünkkel kapcsolatban és szeretne beszélgetni diákjaimmal vagy velem, akkor nagy örömmel vesszük, ha felkeres minket a bemutató helyszínén!  </p>
+<p>      <br>
+      <br>
+      Találkozzunk!
+      <?php include ('copyright'); ?>
+                  </p>
+</td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

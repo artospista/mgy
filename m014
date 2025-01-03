@@ -1,0 +1,96 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<?php include ('hirekmenu'); ?>
+		<li><a href="index.php?id=m010">Ahogyan a lovak szeretn&eacute;k</a></li>
+		<li><a href="index.php?id=m020">Ismerj meg</a></li>
+		<li><a href="index.php?id=m030">L&oacute; mestereim</a></li>
+		<li><a href="index.php?id=m040">Di&aacute;kjaim</a></li>
+		<li><a href="index.php?id=m050">Ahol és amikor tal&aacute;lkozhatsz velünk</a></li>
+		<li><a href="index.php?id=m060">Oktat&aacute;s</a></li>
+		<li><a href="index.php?id=m070">Kapcsol&oacute;d&oacute; &iacute;r&aacute;sok</a></li>
+		<li><a href="index.php?id=m080">Ahogyan a lovakat szeretitek</a></li>
+		<li><a href="index.php?id=m090">Linkek</a></li>
+		<li><a href="index.php?id=m011">Bolt</a></li>
+		<li><a href="index.php?id=m012">Vendégkönyv</a></li>
+		<li class="last"><a href="index.php?id=m013">Kép és</a> videó galéria</li>
+		
+		<li class="first">Elérhetőség:</li>
+		<li class="none">Mészáros Gyula</li>
+		<li class="none">+36 20 576 50 50</li>
+		<li class="mail"><a href="mailto:natural-horsemanship@mgy.hu">natural-horsemanship@mgy.hu</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Videógaléria</h2>
+<div id="content-bent">
+<table>
+<tr width="100%" align="left"><td width="100" valign="top">
+2007. 03. 29.</td><td><a href="http://zeroteam.hu/lovak/lovak.alma.wmv" target="_blank">A lovak álma! - Köszönet érte Takács Gyöngyinek!</a>&nbsp;
+</td></tr><tr><td>
+2007. 04. 12.</td><td><a href="http://www.hauteecole.ru/images/he/HE1tv/chor_28.asf" target="_blank">Ló enciklopédia - Alexander Nevzorov&nbsp;(Trailer)</a>&nbsp;
+</td></tr><tr><td>
+2007. 04. 12.</td><td><a href="http://www.hauteecole.ru/en/nevzorov_haute_ecole.php?sid=0&id=344" target="_blank">Nevzorov Magas Iskola - Alexander Nevzorov&nbsp;(Trailer)</a>&nbsp;
+</td></tr><tr><td valign="top">
+2007. 05. 10.</td><td><a href="index.php?id=m800&getvideo=claudbelsolow">Többek között ezt is kiölik az emberek a lovakból I. - Claudius 1,5 évesen<br>(összeállította: Szabadi Attila videográfus)</a>&nbsp;
+</td></tr><tr><td valign="top">
+2007. 05. 10.</td><td><a href="index.php?id=m800&getvideo=claudkulsolow">Többek között ezt is kiölik az emberek a lovakból II. - Claudius 2,5 évesen<br>(összeállította: Szabadi Attila videográfus)</a>&nbsp;
+</td></tr><tr><td valign="top">
+2007. 05. 10.</td><td><a href="index.php?id=m800&getvideo=sonyfilm3">Szabadság-Összhang-Energikusság-Szeretet<br>Dior és Ditti egy Sony reklámban<br>(összeállította: Szabadi Attila videográfus)</a>&nbsp;
+</td></tr><tr><td valign="top">
+2007. 05. 24.</td><td><a href="index.php?id=m800&getvideo=tanitvanyaim">Tanítványaimmal - Visy Viktória szemszögéből</a>&nbsp;
+</td></tr>
+</table>
+<br><br>
+<!--
+<a href="index.php?id=m014#top">Az oldal tetejére</a><br><br>
+-->
+<?php include ('copyright'); ?>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

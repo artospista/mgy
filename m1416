@@ -1,0 +1,150 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+var newwindow;
+function popitup(url)
+{
+	newwindow=window.open(url,'name','left=50,top=50,width=800,height=600,resizable=yes,scrollbars=yes,toolbar=yes,status=yes') ;
+	if (window.focus) {newwindow.focus()}
+	return false;
+}
+// --></script>
+</head>
+
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li class="aktiv">A lovak</li>
+		<li><a href="index.php?id=m240">Akkor és most</a></li>
+		<li><a href="index.php?id=m340">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>A lovak</h2>
+<div id="content-bent">
+
+<?php include ('lomenu'); ?>
+
+<p align="center"><b>Tomi</b></p>
+<table cellpadding='0' cellspacing='0' align='center' style='line-height:100%; margin-top:0; margin-bottom:0;' border='0' cellspacing='0' bordercolordark='white' bordercolorlight='black' width='404'>
+<tr><td><a href='./photos/m140/tomi/image001.jpg' onclick="return popitup('./photos/m140/tomi/image001.jpg')"><img src='./photos/m140/tomi/small_image001.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image002.jpg' onclick="return popitup('./photos/m140/tomi/image002.jpg')"><img src='./photos/m140/tomi/small_image002.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image003.jpg' onclick="return popitup('./photos/m140/tomi/image003.jpg')"><img src='./photos/m140/tomi/small_image003.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image004.jpg' onclick="return popitup('./photos/m140/tomi/image004.jpg')"><img src='./photos/m140/tomi/small_image004.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image005.jpg' onclick="return popitup('./photos/m140/tomi/image005.jpg')"><img src='./photos/m140/tomi/small_image005.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image006.jpg' onclick="return popitup('./photos/m140/tomi/image006.jpg')"><img src='./photos/m140/tomi/small_image006.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image007.jpg' onclick="return popitup('./photos/m140/tomi/image007.jpg')"><img src='./photos/m140/tomi/small_image007.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image008.jpg' onclick="return popitup('./photos/m140/tomi/image008.jpg')"><img src='./photos/m140/tomi/small_image008.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image009.jpg' onclick="return popitup('./photos/m140/tomi/image009.jpg')"><img src='./photos/m140/tomi/small_image009.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image010.jpg' onclick="return popitup('./photos/m140/tomi/image010.jpg')"><img src='./photos/m140/tomi/small_image010.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image011.jpg' onclick="return popitup('./photos/m140/tomi/image011.jpg')"><img src='./photos/m140/tomi/small_image011.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image012.jpg' onclick="return popitup('./photos/m140/tomi/image012.jpg')"><img src='./photos/m140/tomi/small_image012.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image013.jpg' onclick="return popitup('./photos/m140/tomi/image013.jpg')"><img src='./photos/m140/tomi/small_image013.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image014.jpg' onclick="return popitup('./photos/m140/tomi/image014.jpg')"><img src='./photos/m140/tomi/small_image014.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image015.jpg' onclick="return popitup('./photos/m140/tomi/image015.jpg')"><img src='./photos/m140/tomi/small_image015.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image016.jpg' onclick="return popitup('./photos/m140/tomi/image016.jpg')"><img src='./photos/m140/tomi/small_image016.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image017.jpg' onclick="return popitup('./photos/m140/tomi/image017.jpg')"><img src='./photos/m140/tomi/small_image017.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image018.jpg' onclick="return popitup('./photos/m140/tomi/image018.jpg')"><img src='./photos/m140/tomi/small_image018.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image019.jpg' onclick="return popitup('./photos/m140/tomi/image019.jpg')"><img src='./photos/m140/tomi/small_image019.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image020.jpg' onclick="return popitup('./photos/m140/tomi/image020.jpg')"><img src='./photos/m140/tomi/small_image020.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image021.jpg' onclick="return popitup('./photos/m140/tomi/image021.jpg')"><img src='./photos/m140/tomi/small_image021.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image022.jpg' onclick="return popitup('./photos/m140/tomi/image022.jpg')"><img src='./photos/m140/tomi/small_image022.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image023.jpg' onclick="return popitup('./photos/m140/tomi/image023.jpg')"><img src='./photos/m140/tomi/small_image023.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image024.jpg' onclick="return popitup('./photos/m140/tomi/image024.jpg')"><img src='./photos/m140/tomi/small_image024.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image025.jpg' onclick="return popitup('./photos/m140/tomi/image025.jpg')"><img src='./photos/m140/tomi/small_image025.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image026.jpg' onclick="return popitup('./photos/m140/tomi/image026.jpg')"><img src='./photos/m140/tomi/small_image026.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image027.jpg' onclick="return popitup('./photos/m140/tomi/image027.jpg')"><img src='./photos/m140/tomi/small_image027.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image028.jpg' onclick="return popitup('./photos/m140/tomi/image028.jpg')"><img src='./photos/m140/tomi/small_image028.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image029.jpg' onclick="return popitup('./photos/m140/tomi/image029.jpg')"><img src='./photos/m140/tomi/small_image029.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image030.jpg' onclick="return popitup('./photos/m140/tomi/image030.jpg')"><img src='./photos/m140/tomi/small_image030.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image031.jpg' onclick="return popitup('./photos/m140/tomi/image031.jpg')"><img src='./photos/m140/tomi/small_image031.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image032.jpg' onclick="return popitup('./photos/m140/tomi/image032.jpg')"><img src='./photos/m140/tomi/small_image032.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image033.jpg' onclick="return popitup('./photos/m140/tomi/image033.jpg')"><img src='./photos/m140/tomi/small_image033.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image034.jpg' onclick="return popitup('./photos/m140/tomi/image034.jpg')"><img src='./photos/m140/tomi/small_image034.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image035.jpg' onclick="return popitup('./photos/m140/tomi/image035.jpg')"><img src='./photos/m140/tomi/small_image035.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image036.jpg' onclick="return popitup('./photos/m140/tomi/image036.jpg')"><img src='./photos/m140/tomi/small_image036.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image037.jpg' onclick="return popitup('./photos/m140/tomi/image037.jpg')"><img src='./photos/m140/tomi/small_image037.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image038.jpg' onclick="return popitup('./photos/m140/tomi/image038.jpg')"><img src='./photos/m140/tomi/small_image038.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image039.jpg' onclick="return popitup('./photos/m140/tomi/image039.jpg')"><img src='./photos/m140/tomi/small_image039.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image040.jpg' onclick="return popitup('./photos/m140/tomi/image040.jpg')"><img src='./photos/m140/tomi/small_image040.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image041.jpg' onclick="return popitup('./photos/m140/tomi/image041.jpg')"><img src='./photos/m140/tomi/small_image041.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image042.jpg' onclick="return popitup('./photos/m140/tomi/image042.jpg')"><img src='./photos/m140/tomi/small_image042.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image043.jpg' onclick="return popitup('./photos/m140/tomi/image043.jpg')"><img src='./photos/m140/tomi/small_image043.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image044.jpg' onclick="return popitup('./photos/m140/tomi/image044.jpg')"><img src='./photos/m140/tomi/small_image044.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image045.jpg' onclick="return popitup('./photos/m140/tomi/image045.jpg')"><img src='./photos/m140/tomi/small_image045.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image046.jpg' onclick="return popitup('./photos/m140/tomi/image046.jpg')"><img src='./photos/m140/tomi/small_image046.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image047.jpg' onclick="return popitup('./photos/m140/tomi/image047.jpg')"><img src='./photos/m140/tomi/small_image047.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image048.jpg' onclick="return popitup('./photos/m140/tomi/image048.jpg')"><img src='./photos/m140/tomi/small_image048.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image049.jpg' onclick="return popitup('./photos/m140/tomi/image049.jpg')"><img src='./photos/m140/tomi/small_image049.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image050.jpg' onclick="return popitup('./photos/m140/tomi/image050.jpg')"><img src='./photos/m140/tomi/small_image050.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image051.jpg' onclick="return popitup('./photos/m140/tomi/image051.jpg')"><img src='./photos/m140/tomi/small_image051.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image052.jpg' onclick="return popitup('./photos/m140/tomi/image052.jpg')"><img src='./photos/m140/tomi/small_image052.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr><td><a href='./photos/m140/tomi/image053.jpg' onclick="return popitup('./photos/m140/tomi/image053.jpg')"><img src='./photos/m140/tomi/small_image053.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image054.jpg' onclick="return popitup('./photos/m140/tomi/image054.jpg')"><img src='./photos/m140/tomi/small_image054.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m140/tomi/image055.jpg' onclick="return popitup('./photos/m140/tomi/image055.jpg')"><img src='./photos/m140/tomi/small_image055.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+</table>
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

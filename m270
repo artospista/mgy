@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m170">Gondolatok, átélt élmények, események</a></li>
+		<li class="aktiv">Korábbi cikkeim és interjúim eredeti változatban</li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Korábbi cikkeim és interjúim eredeti változatban</h2>
+<div id="content-bent">
+<a href="index.php?id=m2701">10 fontos ló tulajdonság</a><br>
+<a href="index.php?id=m2702">A Klasszikus ló és lovas kiképzés teljesen természetes</a><br>
+<a href="index.php?id=m2703">A lovam a tükröm</a><br>
+<a href="index.php?id=m2704">A ménekhez még több tudásra van szükség</a><br>
+<a href="index.php?id=m2705">A sikeresség 6 összetev&#337;je</a><br>
+<a href="index.php?id=m2706">A Zabla-A kell a lehettel szemben</a><br>
+<a href="index.php?id=m2707">Adjunk nekik id&#337;t gondolkodni</a><br>
+<a href="index.php?id=m2708">Arthur Kottas természetes szemmel nézve</a><br>
+<a href="index.php?id=m2709">Az O'Connor család eredményei és Pat Parelli</a><br>
+<a href="index.php?id=m2710">Bemutató Kentuckyban</a><br>
+<a href="index.php?id=m2711">George Morris els&#337; kurzusa Magyarországon</a><br>
+<a href="index.php?id=m2712">Honza & Gaston</a><br>
+<a href="index.php?id=m2713">Interjú Arthur Kottasszal</a><br>
+<a href="index.php?id=m2714">Lóközponttú kiképzést demonstrálta Linda és Pat Parelli Bécsújhelyen</a><br>
+<a href="index.php?id=m2715">Savvy Konfrencia - Anglia 2005</a><br>
+<a href="index.php?id=m2716">Többet ésszel, mint er&#337;vel</a><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

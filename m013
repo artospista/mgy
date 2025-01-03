@@ -1,0 +1,119 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<?php include ('hirekmenu'); ?>
+		<li><a href="index.php?id=m010">Ahogyan a lovak szeretn&eacute;k</a></li>
+		<li><a href="index.php?id=m020">Ismerj meg</a></li>
+		<li><a href="index.php?id=m030">L&oacute; mestereim</a></li>
+		<li><a href="index.php?id=m040">Di&aacute;kjaim</a></li>
+		<li><a href="index.php?id=m050">Ahol és amikor tal&aacute;lkozhatsz velünk</a></li>
+		<li><a href="index.php?id=m060">Oktat&aacute;s</a></li>
+		<li><a href="index.php?id=m070">Kapcsol&oacute;d&oacute; &iacute;r&aacute;sok</a></li>
+		<li><a href="index.php?id=m080">Ahogyan a lovakat szeretitek</a></li>
+		<li><a href="index.php?id=m090">Linkek</a></li>
+		<li><a href="index.php?id=m011">Bolt</a></li>
+		<li><a href="index.php?id=m012">Vendégkönyv</a></li>
+		<li class="last">Kép és <a href="index.php?id=m014">videó galéria</a></li>
+		
+		<li class="first">Elérhetőség:</li>
+		<li class="none">Mészáros Gyula</li>
+		<li class="none">+36 20 576 50 50</li>
+		<li class="mail"><a href="mailto:natural-horsemanship@mgy.hu">natural-horsemanship@mgy.hu</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Képgaléria</h2>
+<div id="content-bent">
+
+<table>
+<tr width="100%" align="left"><td width="100" valign="top">
+2006. 04. 22.</td><td>Tatárszentgyörgy (Vásártér)-10.45h&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/ttszgy060422" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2006. 04. 29.</td><td>Sződliget (Floch puszta)-10.30h-&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/szod060429" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2006. 04. 29.</td><td>Pécel (Kishársas)-13.00h&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/pecel060429" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2006. 06. 04.</td><td>Hortobágy (Hortobágyi Lovasnapok)-14.10h&nbsp;(bemutató)&nbsp;
+</td></tr><tr><td>
+2006. 06. 05.</td><td>Hortobágy (Hortobágyi Lovasnapok)-14.20h&nbsp;(bemutató)&nbsp;
+</td></tr><tr><td>
+2006. 08. 20.</td><td>Sarlóspuszta (Tatárszentgyörgy) <a href="http://www.sarlospuszta.hu" target="_blank">Részletek</a>-12.30h&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/sp060820" target="_blank">Fotógaléria</a>
+</td></tr><tr><td valign="top">
+2006. 08. 26.</td><td>Kurzus és lóetológiai konferencia a legendás Ray Hunttal - Anglia, Hope-Nemzeti-Lóetológiai Központ&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/hope060826" target="_blank">Fotógaléria</a>
+</td></tr><tr><td valign="top">
+2006. 10. 07.</td><td>Váckisújfalu (Kéripuszta)-Egy nap a lovakért!...Természetesen!-10h&nbsp;(nyílt nap)&nbsp;<a href="viewpict.php?id=m050/kp061007" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2006. 11. 29.</td><td>Kaposvár Lovasakadémia (el&#337;adás/bemutató)&nbsp;<a href="viewpict.php?id=m013/kaposvar061129" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2006. 12. 29.</td><td>Kéripuszta Váckisújfalu (honlap indítás)&nbsp;<a href="viewpict.php?id=m013/keripuszta061229" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 01. 13.</td><td>Berkenye Nógrádi vár (kirándulás)&nbsp;<a href="viewpict.php?id=m013/berkenye070113" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 02. 11.</td><td>Csem&#337; (kurzus)&nbsp;<a href="viewpict.php?id=m013/csemo070211" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 02. 25.</td><td>Keszthely (kurzus)&nbsp;<a href="viewpict.php?id=m013/keszthely070225" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 03. 12.</td><td>ELTE Etológia Tanszék (mgy előadás)&nbsp;<a href="viewpict.php?id=elte070312" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 03. 15.</td><td>Bécsi Spanyol Iskola (Kirándulás)&nbsp;<a href="viewpict.php?id=becs070315" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 04. 04.</td><td>Zahid körmölése&nbsp;<a href="viewpict.php?id=m170/1704" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 04. 28.</td><td>Sződliget (Floch puszta)&nbsp;(bemutató)&nbsp;<a href="viewpict.php?id=m050/szod070428" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 05. 10.</td><td>KisSophie imprint&nbsp;<a href="viewpict.php?id=m170/1705" target="_blank">Fotógaléria</a>
+</td></tr><tr><td>
+2007. 06. 13.</td><td>"A korábban körmölhetetlen Zahid második körmölése!" - Patkolókovács: Fábián Tamás; segítő: Péter és jómagam (mgy)&nbsp;<a href="viewpict.php?id=m013/zahid2korm" target="_blank">Fotógaléria</a>
+</td></tr>
+</table>
+<br><br>
+<a href="index.php?id=m013#top">Az oldal tetejére</a><br><br>
+<?php include ('copyright'); ?>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li><a href="index.php?id=m140">A lovak</a></li>
+		<li><a href="index.php?id=m240">Akkor és most</a></li>
+		<li class="aktiv">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Fiúk és lányok</h2>
+<div id="content-bent">
+
+<?php include ('diakmenu'); ?>
+
+<p align="center"><b>Horváth Tímea</b></p>
+
+<p align="center"><img src="photos/m340/image003.jpg"></p>
+Nevem: Horváth Tímea<br>
+
+Lovam neve, kora, neme: Rózi, 13, kanca<br>
+
+Lovam élet útja<br>
+
+Lassan három éve vagyunk együtt Rózival, és azt hiszem mindketten óriási változáson mentünk keresztül….<br>
+Díjlovagolni próbáltam vele az elején gondolom, nem kell mesélnem, hogy milyen eszközöket használtunk! Szerencsére a Weiroterig nem jutottunk el, ugyanis én elég ’erősnek’ bizonyultam ahhoz hogy megtartsam a fejét… ’csak’ a sarkantyút vetettük be mint ’segítség’ a megfelelő elengedettséghez!! A harmadik hónap után már annyira nem tetszett neki, hogy minden edzés után vérzik a szája széle és az oldala, ezért el kezdett tiltakozni… mindössze csak ki-kirúgott a vágta segítségekre de ez azt hiszem ez elég kicsi reakció az ellene elkövetett bűnökkel szemben! Azt még tudni kell Róla hogy az ugrástól sőt a cavalettitől is nagyon félt, ugyanis előttem volt egy kis ugró pályafutása is, és hát mit mondjak sikerült vele ezt is megutáltatni!!! Egyébként sosem akart bántani felrúgni, megharapni… ő úgy védekezett az emberek ellen, hogy nem vett róluk tudomást Elviselt a hátán de nem igazán vett figyelembe.. Meglehetett simogatni, de inkább elfordult, mint sem, hogy hagyja! A fejéhez különösen nem lehetett hozzáérni, mert ha felé emelte valaki a kezét hanyatt akarta vágni magát annyira félt tőle!<br>
+
+Hogy miért kezdtük el?<br>
+
+Mert éreztem, hogy valami baj van, valami nagy baj! Ugyanis én azért kezdtem el díjovagolni, hogy minél közelebb kerüljek a lovamhoz, ehelyett egyre inkább eltávolodtam tole! Azt éreztem, hogy kínzom, de akkor még nem voltak ilyen nyilvánvalóak ezek az érzések. Csak azt tudtam menni kell, valami mást keresni! Megoldást szerettem volna, arra hogyan kerüljek hozzá közelebb, mert nem igazán akart észre venni még egy év után sem, sajnos.<br>
+
+Ma már (ezt sosem hittem volna) játszok vele!! Számomra ez az eddigi legnagyobb eredmény!! Mert ezek szerint a társának tekint… Nála ez azért is lényeges, mert amióta ismerem, nem láttam még másik lóval játszani! A legjobb dolog az egészben az, hogy Ő aki nagyon nem szeretett ugrani, játék közben  ’elszökik’, hogy megugorhassa az akadályt!!<br>
+A másik fontos dolog hogy hagyja magát dögönyözni. A feje a bokámnál van, ha simogatom. <br>
+Persze az idegenekkel szembeni szkepticizmusa megmaradt!!<br>
+
+Céljaink <br>
+
+Amit ő is szeretne!! Szeretnék vele olyan kapcsolatba lenni, hogy minden eszköz nélkül is kitudjak menni vele terepre akár földön, akár rajtaülve!<br>
+Ha arról van szó, megugrunk egy akadályt, ha nem akkor meg ugrást váltunk a réten, mind lágyan, könnyedén, teljes összhangban és úgy ahogy ő is szeretné, félelmek nélkül!  <br>
+
+Ajánlom…. mindenkinek, de csak akkor, ha tényleg fontos a lova!!. 
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li><a href="index.php?id=m140">A lovak</a></li>
+		<li><a href="index.php?id=m240">Akkor és most</a></li>
+		<li class="aktiv">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Fiúk és lányok</h2>
+<div id="content-bent">
+
+<?php include ('diakmenu'); ?>
+
+<p align="center"><b>Károlyfi Edit</b></p>
+
+
+<p align="center"><img src="photos/m340/image005.jpg"></p>
+Nevem: Károlyfi Edit<br>
+
+
+Lovam neve, kora, neme: Christian Dior, 8 éves, kanca<br>
+
+Lovam életútja röviden: <br>
+
+Egy kupectől vettük négy évesen. Előtte egy kislány lovagolta, de sajnos nem tudok róla semmit.<br>
+
+
+Lovas karrierem:<br>
+
+12 évesen kezdtem lovagolni egy szadai lovasfarmon. Hétvégenként jártunk ki a családommal. Eleinte egy kis szürke pónit lovagoltam, majd ahogy telt az idő egyre több és több lovat lovagolhattam.<br>
+Elkezdtünk terepre járni, majd néhány év múlva megkaptuk nővéremmel első saját lovunkat. Ő Zafír, egy kis nyárifekete kanca, akkor volt 11-12 éves.<br>
+Nagyon nyugodt és kedves kis kanca. Felváltva lovagoltuk őt, egyik nap a nővérem, másik nap én. Elkezdtünk lovastúrákra járni. Kezdtük érezni, hogy hamarosan egy ló „kevés” lesz, hiszen mindig csak egyikünk tudott elmenni egy-egy lovastúrára és terepre sem tudtunk együtt menni. Kb. fél év múlva szüleink úgy döntöttek, hogy vesznek még egy lovat. Ő lett Dior, az én lovam. Amikor megláttam kijelentettem, hogy nekem ez a ló nem kell! Hatalmas volt! Az én nem egészen 160cm-es magasságomhoz egy közel 180cm marmagasságú ló…El sem tudtam képzelni, hogy valaha fel fogom tudni kantározni és nyergelni. Három napig volt nálunk kipróbáláson. Utáltam kimenni hozzá és sikerült bebizonyítanom magamnak, hogy valóban nem tudom sem felkantározni, sem felnyergelni. Egyetlen dolog tetszett benne: a mozgása. Kis „varrógép jellegű” Zafírkához képest hatalmas léptei voltak. Valahányszor lovagoltam rajta jó kedvem lett. Ennek ellenére nem akartam Őt. Anyukám azonban úgy döntött megveszi. Másnap már a nevemen volt a ló. Ezen kívül semmi közöm nem volt hozzá, viszont kötelező volt minden nap lovagolnom.<br>
+Hamarosan azonban minden megváltozott. A többi ló nem engedte Őt enni, nagyon lefogyott és a kis karámban a többiek rúgásai elől sem tudott elmenekülni. El kellett Őt különíteni, hogy kicsit helyrejöjjön.<br>
+Néhány nap elteltével már ahogy meglátta az autót amivel hoztak odaállt a kapuba és várt. Én lettem az egyetlen társa. Ezt persze nem a „hatalmas” hozzáértésemnek, hanem magányának köszönhettem. Ahogy kezdtünk közelebb kerülni egymáshoz már megengedte, hogy felnyergeljem, leengedte a fejét kantározásnál, és néhány hónap elteltével már a hátsó lábait is fel tudtam venni anélkül, hogy meg akart volna rúgni.<br>
+Elkezdtem élvezni vele foglalkozni. Elkezdtem szeretni. Az edzések is vidáman teltek, akkor még mindkettőnk számára. Kezdtem azonban nagyravágyóvá válni. Díjlovagolni akartam. Versenyezni. Itt rontottam el mindent.<br>
+Egy díjlovas edző kezdett foglalkozni velünk. Az első edzést kapásból úgy kezdtük, hogy jól lekötöttük Dior fejét. Engem futószárra vett és több mint egy órán keresztül szó szerint kínzott. Ez után következett a kb. másfél órás „lovaglás”. Ez így ment néhány alkalommal. Diornak olyan félelmei és fájdalmai voltak, hogy rászokott az ágaskodásra. Egyszer hanyatt is estünk.<br>
+Soha ki nem törölhető mély nyomot hagyott mindkettőnkben. Valami összetört bennünk. Most már tudom, hogy Ő csak menekült szegény. A lovam azonban hatalmasat csalódott bennem.<br>
+Azután kb. fél évig egyáltalán nem lovagoltam. Minden nap kimentem hozzá, megpucoltam, vittem neki répát meg almát és legeltettem. Nagyon szerettem, de soha többé nem akartam Őt lovagolni.<br>
+Ekkor döntöttem úgy, hogy valamit lépnem kell. Egyik lovas társamhoz elkezdett járni egy furcsa alak. Annyit tudtam róla, hogy valami Gyula… Furcsa emberként emlékszem rá. Nagyon csöndes volt, de mindig mindenkit kedvesen üdvözölt.<br>
+Egy számomra új módszerrel foglalkozott a lóval. Kötőfékkel és földről tanított. <br>
+Úgy gondoltam már nincs több vesztenivalóm. Belevágtam. Hamarosan átköltöztünk Diorral az Ő lovardájába, hogy minél többet edzhessünk. Nyári szünet volt, épp érettségi után így minden nap ki tudtam járni. Az egész napot ott töltöttem. Mi is a földről kezdtük a hét játékkal. Persze nem ment minden simán. Dior nagyon domináns kanca. Én, pedig sokszor tartottam tőle és nem volt meg a kellő tudásom és érzékem sem. Többször előfordult, hogy rám rúgott vagy felágaskodott és le akart csapni. Rengetegszer összeomlottam és elkeseredtem. Egyetlen dolog, ami miatt nem adtam fel, az a bizonyítási vágy volt. A lovamnak és magamnak. Tudtam, hogy nem rossz ló, nem idegbeteg és nem vágóhídra való, mint ahogy sokan mondták. Egyetlen dolgot akartam elérni: hogy a lovaglás végre újra örömforrás legyen lovam és számomra is, és ne egy kötelező napi feladat, kötelesség.<br>
+
+Két és fél évvel ezelőtt kezdtem ezt a ló barát módszert tanulni. El sem tudom mondani mi minden változott meg gyökeresen azóta. A legfontosabb eredmény biztosan az, hogy örömöt okoz a lovaglás. Örömmel járok ki Diorhoz, örömmel játszom vele és örömmel lovagolok rajta. Szeretek vele lenni és ami a legfontosabb: Ő is szeret velem lenni. Előbb-utóbb bármit el fogunk tudni érni együtt. Fejlődésünket csak én magam hátráltatom időnként. Gyakran ügyetlen vagyok és lassú ezért elmegy a türelmem és sokszor kudarcérzetem van. Persze ahogy telik az idő ezek egyre kevesebbet fordulnak elo. Ilyenkor megállok, kiengedem a gőzt, átgondolom a dolgot és csinálunk valami mást. Tudom, hogy soha nem a ló a hibás, mindig én csinálok valamit rosszul és ezért nagyon mérges szoktam lenni magamra. Nem ismerek azonban még egy olyan módszert amivel ilyen gyorsan lehet fejlődni. Lónak és embernek együtt. Hiszen ez nem arról szól, hogy kapsz egy képzett lovat, akit azután jól elronthatsz. Mindent együtt érünk el lépésről lépésre.<br>
+A lovam készséges, nyugodt, figyelmes és okos lett. És meg kell jegyeznem, hogy én is jobban büszkélkedhetek ezekkel a tulajdonságokkal, mint korábban. Együtt, megtanultunk gondolkodni.<br>
+Bármely jármódban könnyedén lovagolom akár mindenféle felszerelés nélkül, terepen is. Mindenképpen szeretném megemlíteni azt is, hogy az ülésem rengeteget fejlődött! Kezdek megtanulni lazán, függetlenül ülni, hogy minél kevésbé legyek kényelmetlen a lovam számára és a lehető legkevésbé zavarjam Őt.<br>
+
+Legfőbb célom az volt és mindig az is lesz, hogy Dior és én boldogok és önfeledtek legyünk az együtt töltött idő alatt (is).<br>
+Versenyezni nem szeretnék, de bemutatókra örömmel készülök, hogy minél több ember ismerhesse meg ezt a csodálatos kommunikációt ló és ember között.<br>
+
+Kétféle embernek ajánlom a módszert: az egyik aki tudja, hogy nem tökéletes, de szeretne a lehető legközelebb kerülni a lovához, aki szeretne pozitív élményeket szerezni a lova és saját maga számára, akinek félelmet, frusztrációt okoz a lovaglás és aki komoly eredményeket szeretne elérni a lovával akár nemzetközi versenyeken is kínlódás és lova illetve önmaga veszélyeztetése nélkül.<br>
+A másik típus akinek ajánlom a módszert: az aki azt hiszi, hogy tökéletes. Hogy rájöjjön mennyire nem az.<br><br>
+
+KÖSZÖNÖM!
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

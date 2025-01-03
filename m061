@@ -1,0 +1,95 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m060">Állandó helyszínek</a></li>
+		<li class="aktiv">Kurzusok és Eseti Oktatások</li>
+		<li><a href="index.php?id=m064">Táborok</a></li>
+		<li><a href="index.php?id=m062">Ajánlott Irodalom</a></li>
+		<li><a href="index.php?id=m063">Ajánlott Filmek</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                      <td valign="top">
+<h2>Oktat&aacute;s</h2>
+<h3>Kurzusok és Eseti Oktatások</h3>
+
+<table width="511" height="228" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="511" height="228" valign="top"><div align="center">
+                <p><strong><font color="#000000" size="2">&quot;mgy&quot; Kurzus</font></strong></p>
+                <p><font color="#000000" size="2">Időpont: <strong>2008. szeptember 14.</strong></font></p>
+                <p><font color="#000000" size="2">Kezdés időpontja: <strong>Vasárnap
+                      9 óra</strong></font></p>
+                <p><font color="#000000" size="2"> Helyszín: <strong>Ballószög, V. körzet
+                    35.</strong></font></p>
+                <p><font color="#000000" size="2"> Részvételi díj: 14.000,- Ft/ló</font></p>
+                <p><font color="#000000" size="2"> nézőnek 5000 Ft/ fő</font></p>
+                <p> <font color="#000000" size="2">családtagnézőnek  2000 Ft/
+                    fő</font></p>
+                <p><font color="#ff0000" size="2">Minden érdeklődőt szeretettel
+                  várunk!</font></p>
+                <p><br>
+                <strong><font color="#000000" size="2"><strong>Ballószög</strong> megközelítése</font></strong><br>
+                <br><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;hl=hu&amp;geocode=&amp;q=Ball%C3%B3sz%C3%B6g&amp;sll=46.958991,17.900625&amp;sspn=0.011555,0.027895&amp;ie=UTF8&amp;ll=46.919317,19.605103&amp;spn=0.37043,0.892639&amp;z=11&amp;output=embed&amp;s=AARTsJriCoTFTohSDWk3Em1y8gu2wd6xDg"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;hl=hu&amp;geocode=&amp;q=Ball%C3%B3sz%C3%B6g&amp;sll=46.958991,17.900625&amp;sspn=0.011555,0.027895&amp;ie=UTF8&amp;ll=46.919317,19.605103&amp;spn=0.37043,0.892639&amp;z=11&amp;source=embed" style="color:#0000FF;text-align:left">Nagyobb térképre váltás</a></small><br>
+                    </p>
+            </div>
+            </td>
+          </tr>
+        </table>              
+        <td height="40" width="50">&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                            </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

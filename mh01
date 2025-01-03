@@ -1,0 +1,119 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<a name="top"></a>
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<?php include ('hirekmenu'); ?>
+		<li><a href="index.php?id=m010">Ahogyan a lovak szeretn&eacute;k</a></li>
+		<li><a href="index.php?id=m020">Ismerj meg</a></li>
+		<li><a href="index.php?id=m030">L&oacute; mestereim</a></li>
+		<li><a href="index.php?id=m040">Di&aacute;kjaim</a></li>
+		<li><a href="index.php?id=m050">Ahol és amikor tal&aacute;lkozhatsz velünk</a></li>
+		<li><a href="index.php?id=m060">Oktat&aacute;s</a></li>
+		<li><a href="index.php?id=m070">Kapcsol&oacute;d&oacute; &iacute;r&aacute;sok</a></li>
+		<li><a href="index.php?id=m080">Ahogyan a lovakat szeretitek</a></li>
+		<li><a href="index.php?id=m090">Linkek</a></li>
+		<li><a href="index.php?id=m011">Bolt</a></li>
+		<li><a href="index.php?id=m012">Vendégkönyv</a></li>
+		<li class="last"><a href="index.php?id=m013">Kép és</a><a href="index.php?id=m014">&nbsp;videó galéria</a></li>
+		
+		<li class="first">Elérhetőség:</li>
+		<li class="none">Mészáros Gyula</li>
+		<li class="none">+36 20 576 50 50</li>
+		<li class="mail"><a href="mailto:natural-horsemanship@mgy.hu">natural-horsemanship@mgy.hu</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                            <td valign="top">
+<br>
+<div id="content-bent">
+
+Kedves Barátaim!
+
+<br><br>Október 2. az Er&#337;szakmentesség Nemzetközi Világnapja.</b>
+
+<br><br>
+
+Ezen alkalomból szeretném felhívni a figyelmét mindenkinek, hogy az er&#337;szak nem csak ember és ember között
+hódít teret magának. Sajnálatos módon az ember tudáshiányból, nyereségvágyból, eredményhajhászásból, magamutogatásból és megannyi gyarló emberi
+tulajdonságából kifolyólag több módon is bántalmazza az &#337;t körülvev&#337; és kiszolgáló állatokat.
+
+<br>
+<p align="center">Így a lovakat is!</p>
+<br>
+
+Annak érdekében, hogy az er&#337;szakos lóhozállás legkisebb mértéke is megsz&#369;njön, fejünk homokba
+dugása helyett mindenkinek látnia kell az elrettent&#337; bizonyítékát, a sajnos sok esetben ma még „normálisnak” elfogadott kegyetlen és helytelen
+lóvakkal való bánásmódnak, lószállításnak és tartásnak!
+
+Ne hunyjunk szemet az er&#337;szakos bánásmód el&#337;tt! ...mert...
+
+<br>
+
+<p align="center">„A lovak többet érdemelnek!”</p>
+<br>
+
+
+<b>A büntetlen er&#337;szak néhány linkje:</b>
+<br>
+
+A ló- és lovassport árnyoldala - <a href="http://www.hauteecole.ru/en/horse_revolution.php?sid=57" target="_blank">http://www.hauteecole.ru/en/horse_revolution.php?sid=57</a>
+<br>
+Ló és marhakínzás a rodeókon és a bikaviadalokon - <a href="http://www.sharkonline.org/?P=0000000347" target="_blank">http://www.sharkonline.org/?P=0000000347</a>
+<br>
+<br>
+<b>Eredmények az er&#337;szakmentes lóhozállás terén:</b>
+<br>
+Izraeli parlament nem engedélyezi lóversenypályák építését, mivel alkotmányuk ellenzi többek között az állatkínzást és a szerencsejátékot. A
+lóversenyzés, pedig mindkett&#337;t magába foglalja - <a href="http://www.hauteecole.ru/en/horse_revolution.php?sid=86&amp;id=437" target="_blank">http://www.hauteecole.ru/en/horse_revolution.php?sid=86&amp;id=437</a>
+<br>
+Er&#337;szakmentes nap Horvátországban - <a href="http://www.hauteecole.ru/en/horse_revolution.php?sid=86&amp;id=438" target="_blank">http://www.hauteecole.ru/en/horse_revolution.php?sid=86&amp;id=438</a>
+
+<br><br><br>
+<?php include ('copyright'); ?>
+</div>
+                            </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

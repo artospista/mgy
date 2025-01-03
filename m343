@@ -1,0 +1,101 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li><a href="index.php?id=m140">A lovak</a></li>
+		<li><a href="index.php?id=m240">Akkor és most</a></li>
+		<li class="aktiv">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Fiúk és lányok</h2>
+<div id="content-bent">
+
+<?php include ('diakmenu'); ?>
+
+<p align="center"><b>Jármai Petra</b></p>
+
+<p align="center"><img src="photos/m340/image004.jpg"></p>
+Jármai Petra vagyok és 1994-ben születtem<br>
+
+Lovam: Danton, 9 éves, herélt<br>
+
+Lovam életútja (röviden):<br>
+
+Dantont, múlt nyáron ismertem meg egy bérlovardában. A gazdái nem bírtak vele ezért odaadták egy díjlovas edzőnek, hogy csináljon belőle díjlovat. Ez az edző jól el is rontotta szegényt (valószínűleg itt tanult meg nem csak menekülni az ember elől, hanem rátámadni is és a ló szállítós gondjai is itt kezdodhettek). Azt sajnos nem tudom, hogy hozták át a mi lovardánkba.(de nem is bánom)<br>
+Itt valamivel jobb helye volt, mint a régebbi lovardákban. De azért itt is elég erőszakosan bántak vele, rángatták a száját, ütötték-vágták. Még a kaszkadőrökkel is visszament a boxába, és terepen sem lehetett visszafogni. A gyengébb lovasokat, pedig egyfolytában ledobta és terepről többnyire 15 perc után haza „rotyózott”. Ezért senki nem akart rá fölülni soha, de ott még az volt a „szabály”, hogy a lónak legalább 1 órát menni-e KELL! 3 éve, minden nyári szünetet a lovardában töltöttem, így egyszer nekem mondták, hogy üljek föl rá. Nagyon nem akartam, de muszáj volt. Féltem, de úgy voltam vele, hogy inkább én, mint más, aki esetleg majd megveri, azért, ahogy viselkedik. Hát úgy is ment, ahogy gondoltam. Nem tudtam megállítani, egyfolytában rohant előre. Az első 10 perc után kijelentettem, hogy én leszállok, de anya azt mondta kitartás legyek ügyes és semmi gond nem lesz. Ezért, hála neki nem szálltam le. Aztán miután letelt az 1 óra álmélkodva álltam és simogattam a lovat, gondoltam magamban „csoda történt”!! Annyira ügyesen dolgozott, akkor még nem gondoltam, hogy azért mert mi vezettük az osztályt, mi mentünk legelöl. De az a lényeg, hogy nagyon beleszerettem. Ezután már mindig csak Őt kértem. Ő lett a kedvenc lovam. Egyszer azonban az egyik vágta terep után, halál sántán jött haza szegény. Annyira lesántult, hogy még a lovarda tulaj is leállította. Egy pár nap pihenő után, megkért Gyuri bácsi, hogy üljek föl a Dantonra, mert ez így nem lesz jó, hogy nem dolgozik semennyit. Nagyon aranyosan ment, de nagyon sánta is volt. De minden másnap erőltette Gyuri bácsi, hogy üljek föl. Voltak napok, amikor nagyon rossz volt a lába de azért nem mindig. Amikor jó volt a lába, egyből játszani, szaladgálni, ugrálni akart, mert jó pár napot csak a bokszban töltött. Mi pedig csak maximum 1 héten 3-szor tudtunk kimenni, és amikor mi nem mentünk más nem is ült rá csak Gyuri bácsi és esetleg egy pár ügyesebb lovász. De alattuk is nagyon virgonc, futkározós, menős volt. Ezért arra a következtetésre jutottak, hogy ezzel a lóval nem lehet bírni, nem lehet vele pénzt keresni, semmire se jó: ”Hát akkor mi haszna van?”. Visszaadják a gazdájának, csináljon az ilyen lóval, amit csak akar. Felmerült a vágóhíd kérdése is. Ahogy anyával megtudtuk ezt a hírt egyből megszámoltunk mennyi pénzünk van és, hogy meg tudjuk-e venni. A gazdái természetesen szívesen eladták volna bárkinek. Aztán így hála az égnek meg tudtuk venni. Annyira örültem, hogy azt el se lehet mondani, nem hittem el, hogy az a ló, akit a legeslegjobban szeretek, az „enyém”. Mire nagy nehezen elhittem azt mondta az akkori edzőm, hogy akkor lássuk, mit művelünk ketten. Üljek föl rá és lovagoljunk. Hát természetesen az első alkalommal bevitt az istállóba. De különösebb gond nem volt vele. Csak oldalazni, vállat be és egyéb bonyolultabb feladatokat nem volt hajlandó megcsinálni. Sajnos, ahogy bejött a tél, azt mondta az edző, hogy akkor most télire állítsuk le a lovat. Anyával csak néztünk, hogy mért is kell leállítani? Kérdezte anya és akkor majd ennyi állás után ki lesz az, aki rá fog ülni? Erre nem tudott mit válaszolni.. na jó, megpróbálhatjuk kivinni a kinti pályára mert ott nagyon jó a talaj meg minden. Hát meg is próbáltuk, de az első két kör után megint az istállóban találtuk magunkat. Hát ez így nem lesz jó gondoltuk mind a hárman. Akkor nem marad más csak a séta terep. Kint meglepően szépen, ügyesen ment. Egyszer mondja az egyik lovász, hogyha akarok, akkor menjek ki vele egy rövid kis vágta terepre. Mondom jó, nem lehet nagy gond belőle. Nem is volt, nagyon nyugodtan vágtázott, ezért elbíztam magam és ezek után vágta terepekre is kimentem a többiekkel. Mivel, hogy ott a Danton volt a heréltek között a vezér ezért nekünk mindig elől kellett mennünk, egy jó 30 méterre lehagyva a csapatot. De egyszer nagyon jó napja volt és össze-vissza bakolgatott meg előre vágtázott és az egyik bakolása közben leestem. De nem ütöttem meg magam semmi gond nem történt, mentünk tovább. Nem tudom mi volt az oka a viselkedésének, mert nem szimplán jó kedve volt, hanem ideges, rohanós volt, aztán
+amikor jöttünk haza felé, akkor egy olyan 10 kilométerről eszébe jutott valami és haza „rotyóztunk”. Amikor beértünk a pályára sírva szálltam le. Pedig nem is dobott le meg semmi ilyesmi, csak úgy rám jött, és elkezdtem püfölni a nyakát, hogy már biztos nem szeret, sot utál stb stb .Aztán bevezettük a boxába és odaadtuk neki a szokásos napi adag répáját…azt a 3-4 kilót. Közben beért a terep is. A lovász üvöltözött velünk, hogy mi tiszta hülyék vagyunk nem elég, hogy haza „rotyózik”, mi meg sem verjük és még répát is kap. Aztán volt még egy pár ilyen, de nem volt durvább ennél. 
+Nem ment futószáron sem. Egyszer véres-csíkosra verték miatta. Utána hetekig nem tudtuk megközelíteni. Vele nem igazán a hátán volt a baj, inkább a földi munka mutatta ki, mennyire nem bízik az emberben. <br>
+
+Lovas karrierem:<br>
+
+Hát az nincs… 3 éve nyáron, a nyári szünetben anya beíratott egy lovas táborba. Az egész nyarat ott töltöttem. És később a többit is. Segítettem a lovászoknak, ismerkedtem a lovakkal, lovagoltam. Nem vágytam nagy tudásra, elég volt, ha csak a közelükben lehettem. Ez ma is így van. Nem vonz semmiféle „lovaskarrier„. Illetve egy igen, ha ezt is karriernek nevezik: egész életemben segíteni szeretnék a lovakon. <br>
+
+Mikor és miért kezdtem el a ló központú gondolkodást elsajátítani, ezen keresztül másképp állni a lovamhoz:<br>
+
+Igazából nem ismertem ezt a „lovazós” módszert. Csak hittem abban, hogy a verés nem segít, csak árt. És sajnáltam is Őt, mert hogy csináljon bármit is, ha azt sem tudja, mit akarok tőle. Viszont elég csúnyán a fejünkre nőtt és nem volt más választásunk. Anya azt mondta, elmegy egy iskolába, ahol megtanítják mindarra, amit tudnunk kell, ahhoz, hogy a Dantonnak jó sora legyen. Az interneten kért segítséget, hogy hol van ilyen suli, hova érdemes menni. Itt ismerkedett meg a Pendével, aki kijött a Dantonhoz, és az alatt a néhány óra alatt is szinte „csodákat” művelt vele. Tisztázta, kinek-hol a helye. Aztán azt mondta, hogy Ő igazából nem ért hozzá, hanem egy ismerősét ajánlaná (Mészáros Gyula).. és megadta a telefonszámát. Anya hetekig nem hívta fel. Azt mondta, már nem hisz senkiben. Előbb tudni akarja ki az, és hogy bánik a lovaival. Szerencsére volt egy bemutató, ami meggyőzte Anyát arról, hogy a Gyulában bízhat. Nem kellett sokáig győzködnöm, még aznap este eldöntötte, hogy átvisszük a Dantont. <br>
+
+Milyen változást okozott lovamban és bennem a váltás: (mit tudok ma megcsinálni lovammal, amit régen nem tudtam, de szerettem volna)<br>
+
+Danton nagyon megváltozott. Nyugodt a szeme, nem olyan eszelős a tekintete, mint régen. Sokszor érzem, hogy „átadja” magát nekem, bízik bennem, amit eddig soha nem éreztem. Eddig nem ment futószáron, de most még vezetőszár nélkül, minden kötötség nélkül, önállóan is szépen megy körülöttem. Sokat rágcsál, barátkozik, érdeklődik minden után, és néha nagyon idétlenül tud viselkedni. Sokkal kevesebbszer fut el tőlem. Ha mégis elszalad, akkor egyre közelebb áll meg és általában néhány hívó mozdulatomra vissza is jön hozzám.<br>
+Azt nem tudom, hogy én mennyire változtam meg. Lassan semmi sem érdekel már a lovazáson kívül. Minden percemet a Dantonnal tölteném. Ez, pedig nem biztos, hogy jó. Mert sok minden mást is muszáj lenne csinálnom.<br>
+
+Milyen céljaim voltak, vannak lovammal, magammal kapcsolatban:<br>
+
+A célom, hogy Danton a lehető legjobban érezze magát. Soha nem akartam versenyezni vele, ugratni vagy bármi mást. Azt szerettem volna, hogy barátok legyünk. Aztán, ahogy az idő telt, rájöttem, hogy Danton nem éppen ember szerető ló. Így az is elég volt, hogy napi 1 órát a hátán ültem és mentünk körbe-körbe. A többi időben, pedig tisztítgattam, már ha hagyta, vagy csak ültem a boxában. Mióta „így” lovazunk, kezd olyanná alakulni a kapcsolatunk, amilyenről álmodni sem mertem eddig. Azért, vannak még nehéz pillanataink, és biztosan lesznek is még. A távoli célom, hogy egyszer én is tudjak annyit a lovakról, hogy segíthessek azoknak az embereknek, akiknek ilyen nehéz lovuk van. Hogy ne a vágóra adják Őket, csak mert nem bírnak velük. Szeretnék egy nagy farmot, ahol kiöregedett kedvenceket, beteg, vágóra szánt lovakat tartanék. És mindent megadnék nekik, amire csak szükségük lehet. <br>
+
+Kinek és miért ajánlom a „más”-féle lóhoz állást:<br>
+
+Mindenkinek! Akinek szíve van. Aki nem bírja nézni, hogy mit művelnek a versenyeken és a lovardákban a lovakkal és tenni akar ellene. Akinek fontos a lova boldogsága, kényelme és hogy ne okozzon neki fájdalmat. A lova és a saját biztonsága. Aki igazi, hű társat akar.
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

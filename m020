@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li class="aktiv">Ismerj meg</li>
+		<li><a href="index.php?id=m120">Önéletrajzom a lovak mentén</a></li>
+		<li><a href="index.php?id=m220">Monspart Gábor</a></li>
+		<li><a href="index.php?id=m320">Lovas életutam alakítói képekben</a></li>
+		<li><a href="index.php?id=m420">mgy-Közelről</a></li>
+		<li><a href="index.php?id=m520">Lovak az életemben</a></li>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Ismerj meg</h2>
+<div id="content-bent">
+Ebben a részben rólam és lovas életutam alakítóiról lehet betekintést nyerni. De mindenekelőtt had mondjam el, amit nekem mindez jelent egy pár sorral, amit néhány éve fogalmaztam meg. (– úgy gondolom annál jobb egy megállapítás, minél kevesebbet kell azt módosítani az évek múltán! Én úgy érzem, hogy ez az.-)<br>
+
+<p align="center"><b>A lovak többet érdemelnek!</b></p>
+
+„ Az élmény, amit átélek, az öröm, amit a lovakhoz való más, természetes hozzáállás eredményez leírhatatlan, elmondhatatlan egyszeru földi halandó számára. Akár emberként, akár edzőként, akár lovasként. Egyszerűen csinálni kell és akkor, földi mennyországba kerülünk!!!<br>
+Kicsit egy kisgyerek-korombeli könyv borítója ugrik be nekem egyre gyakrabban. Visszagondolva talán – habár távolinak és elképzelhetetlennek tűnt, de – bíztam abban, hogy egyszer képes leszek én is arra, hogy az állatok nyelvén velük képes legyek kommunikálni. Illetve, ha ez szükséges hozzá, akkor ezen keresztül, a lehető legjobbnak lenni hozzájuk, velük. Na jó most már elárulom. A könyv a Dr. Doolittle volt!:)<br>
+Most nézem csak a szót angol szemmel: „Do little!” Mintha a megfelelő lóhoz állás üzenete már akkor elém került volna. Azaz: Minél kevesebbért, minél többet!...Igaz?:)<br>
+Szóval az egészben az a megható számomra, hogy a lovak megváltoznak körülöttünk!...Azért, mert mi megváltozunk! (De csak, ha eléggé figyelünk rájuk!) Mivel mi megváltoztunk és felhagytunk ragadozóként viselkedni körülöttük, ezért nekik nincsen szükségük többé állandó készenléti állapotban lenni a menekülésre!<br>
+A kapcsolat törékeny, de ha folyamatosan bebizonyítjuk számukra, hogy mi mások, …mi több, mi közülük valók vagyunk, akkor a „csoda” nemcsak, hogy fenntartható, hanem fokozható, amelynek határa a csillagos ég!<br>
+Amilyen fantasztikus, annyira  félelmetes is az egész, hiszen az idő múlásával egyre nagyobb, és komolyabb felelőségünk van a természetből általunk „kiszakított” lény felé. Hiszen, ha sikerült bebizonyítani számára, hogy mi vagyunk a vezetője, akkor onnantól kezdve a ránk kérdoen néző csillogó szempárok által feltett kérdésekre nekünk mindig kényelmet, és biztonságot nyújtó választ kell adjunk!<br>
+Figyeljük őket minél jobban, hogy mit és hogyan csinálnak egymással, aztán sajátítsuk el értük, és tegyünk mindig aszerint, amikor be kívánunk lépni az Ő világukba!<br><br>
+…Tehát:  „Tegyünk meg mindent , hogy a legjobbak lehessünk lovainkhoz!”..., mert<br>
+
+<p align="center"><i>„A lovak többet érdemelnek!”</i></p>
+<p dir="ltr" style="margin-left: 400px; margin-right: 0px"><i>mgy</i></p><br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

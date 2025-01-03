@@ -1,0 +1,116 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<?php include ('hirekmenu'); ?>
+		<li><a href="index.php?id=m010">Ahogyan a lovak szeretn&eacute;k</a></li>
+		<li><a href="index.php?id=m020">Ismerj meg</a></li>
+		<li><a href="index.php?id=m030">L&oacute; mestereim</a></li>
+		<li><a href="index.php?id=m040">Di&aacute;kjaim</a></li>
+		<li><a href="index.php?id=m050">Ahol és amikor tal&aacute;lkozhatsz velünk</a></li>
+		<li><a href="index.php?id=m060">Oktat&aacute;s</a></li>
+		<li><a href="index.php?id=m070">Kapcsol&oacute;d&oacute; &iacute;r&aacute;sok</a></li>
+		<li><a href="index.php?id=m080">Ahogyan a lovakat szeretitek</a></li>
+		<li><a href="index.php?id=m090">Linkek</a></li>
+		<li><a href="index.php?id=m011">Bolt</a></li>
+		<li><a href="index.php?id=m012">Vendégkönyv</a></li>
+		<li class="last"><a href="index.php?id=m013">Kép</a> és <a href="index.php?id=m014">videó</a> galéria</li>
+		
+		<li class="first">Elérhetőség:</li>
+		<li class="none">Mészáros Gyula</li>
+		<li class="none">+36 20 576 50 50</li>
+		<li class="mail"><a href="mailto:natural-horsemanship@mgy.hu">natural-horsemanship@mgy.hu</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Videógaléria</h2>
+<div id="content-bent">
+
+<?php
+$video = $_GET["getvideo"] ;
+$w = $_GET["w"] ;
+if ($w == '')
+  $w = '420' ;
+$h = $_GET["h"] ;
+if ($h == '')
+  $h = '310' ;
+
+$filename = 'video/' . $video . '.txt' ;
+//echo dirname($video) . "-" . basename($video) ;
+$cim = '' ;
+
+if (file_exists($filename))
+  {
+  $dataFile = fopen( $filename, "r" ) /*or (echo "Hiba: nincs ilyen fajl!")*/ ;
+  if ( $dataFile )
+    {
+    while (!feof($dataFile))
+      {
+      $cim = $cim . fgets($dataFile, 4096) ;
+      }
+    fclose($dataFile) ;
+    }
+    else
+    {
+     $cim = $filename ;
+    } ;
+  } ;  
+
+echo "<div align='left'>".$cim."</div>" ;
+?>
+
+<p><object classid="clsid:22D6F312-B0F6-11D0-94AB-0080C74C7E95" codebase="http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,5,715" width="<?php echo $w ?>" height="<?php echo $h ?>" id="v001">
+<param name="Filename" value="video/<?php echo $video ?>.wmv">
+<param name="AutoStart" value="true">
+<param name="ShowTracker" value="true">
+<param name="ShowControls" value="true">
+<param name="ShowDisplay" value="false">
+<param name="AutoSize" value="True">
+<embed src="video/<?php echo $video ?>.wmv" AutoStart="true" ShowTracker="true" ShowControls="true" ShowGotoBar="true" ShowDisplay="false" ShowStatusBar="false" AutoSize="false" pluginspage="http://www.microsoft.com/windows/windowsmedia/download/"></embed></object></p>
+<?php include ('copyright'); ?>
+</td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>

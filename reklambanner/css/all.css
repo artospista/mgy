@@ -1,0 +1,35 @@
+BODY { scrollbar-base-color:#E2E2E2;
+       scrollbar-arrow-color:#000000;
+       scrollbar-Highlight-Color:;
+       scrollbar-Shadow-Color:;
+       scrollbar-DarkShadow-Color:;
+	 font-family: Times New Roman, Times, serif;
+       font-size: 12pt;
+       font-color: #444444;
+	 background-color:;
+       text="#000066" }
+.cim {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.cim2 {
+	FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Monotype Corsiva; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.szoveg {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.szoveg2 {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.szoveg3 {
+	FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.szoveg4 {
+	FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.szoveg5 {
+	FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}	
+A:link    {COLOR:#000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 14px; TEXT-DECORATION: none}
+A:visited {COLOR:#000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 14px; TEXT-DECORATION: none}
+A:hover   {color:#000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 14px; TEXT-DECORATION: underline}
+A:active  {color:#000000; FONT-FAMILY: Times New Roman, Times, serif; FONT-SIZE: 14px; TEXT-DECORATION: underline}

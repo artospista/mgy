@@ -1,0 +1,116 @@
+<html>
+
+<head>
+<title>mgy.hu</title>
+<link rel="stylesheet" type="text/css" href="styles.css" media="all" />
+<base target="_self">
+<meta http-equiv="content-type" content="text/html; charset=windows-1250"></head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3157941-1";
+urchinTracker();
+</script>
+<body leftmargin="0" marginwidth="0" topmargin="2" marginheight="2">
+<div id="masthead">
+<table align="center" cellpadding="0" cellspacing="0" width="900" height="100%" border="0" background="images/bg1.jpg">
+    <tr>
+        <td colspan="2" valign="top" height="100">
+          <img class="img" src="images/top.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td width="26%" valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+ 	<ol id="navlinks">
+		<li class="first">Men&uuml;</li>
+		<li><a href="index.php?id=m040">Diákjaim</a></li>
+		<li><a href="index.php?id=m140">A lovak</a></li>
+		<li><a href="index.php?id=m240&im=m240/bird">Akkor és most</a></li>
+		<li class="aktiv">Fiúk és lányok</a></li>
+<br>
+		<li class="last"><a href="index.php?id=main">Vissza a Főoldalra</a></li>
+	</ol>
+                   
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+        <td valign="top">
+            <div align="left">
+                <table cellpadding="0" cellspacing="0" width="100%" height="100%" bordercolordark="black" bordercolorlight="black">
+                    <tr>
+                        <td valign="top">
+<h2>Fiúk és lányok</h2>
+<div id="content-bent">
+
+<?php include ('diakmenu'); ?>
+
+<?php
+/*
+<table cellpadding='0' cellspacing='0' align='center' style='line-height:100%; margin-top:0; margin-bottom:0;' border='0' cellspacing='0' bordercolordark='white' bordercolorlight='black' width='404'>
+<tr><td>
+<a href='./photos/m340/image010.jpg' onclick="return popitup('./photos/m340/image010.jpg')"><img src='./photos/m340/small_image010.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image011.jpg' onclick="return popitup('./photos/m340/image011.jpg')"><img src='./photos/m340/small_image011.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image012.jpg' onclick="return popitup('./photos/m340/image012.jpg')"><img src='./photos/m340/small_image012.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image014.jpg' onclick="return popitup('./photos/m340/image014.jpg')"><img src='./photos/m340/small_image014.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+<tr>
+<td><a href='./photos/m340/image015.jpg' onclick="return popitup('./photos/m340/image015.jpg')"><img src='./photos/m340/small_image015.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image016.jpg' onclick="return popitup('./photos/m340/image016.jpg')"><img src='./photos/m340/small_image016.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image017.jpg' onclick="return popitup('./photos/m340/image017.jpg')"><img src='./photos/m340/small_image017.jpg' border='2' vspace='2' hspace='2'></a></td>
+<td><a href='./photos/m340/image018.jpg' onclick="return popitup('./photos/m340/image018.jpg')"><img src='./photos/m340/small_image018.jpg' border='2' vspace='2' hspace='2'></a></td>
+</tr>
+</table>
+*/
+?>
+
+<p align="center"><b>Boross Mónika</b></p>
+
+<p align="center"><img src="photos/m340/image001.jpg"></p>
+Nevem: Boross Mónika<br>
+
+Lovam neve, kora, neme: Tramini, 15 év, pej,  kanca<br>
+
+Lovam életútja (röviden):<br>
+
+Egy éves korától 13 éves koráig Egerben volt egy bérlovardában, de nem nagyon tudták használni, mivel minden lovast előszeretettel ragadott el.<br>
+
+Lovas karrierem: (inkább múltam)<br>
+
+Kb. 13 éves koromban a Tattersalban próbáltam ki először a lovaglást. Utána kb. fél évig a galopp pályán lovagoltam. Hosszú kihagyás után kb. 5 évvel ezelőtt kezdtem újra lovagolni bérlovardákban. Két és fél évvel ezelőtt vásároltam meg Traminit. Különböző edzoktől kezdtem lovagolni tanulni, de sajnos saját lovammal nem boldogultam. Terepen rendszeresen elragadott. Ha a pályán lovagoltam, amikor úgy gondolta, hogy elég volt, kiszáguldott velem a pályáról. Néha egymás után ötször is.<br>
+
+Mikor és miért kezdtem el másképp a ló központú gondolkodást elsajátítani, másképp állni a lovamhoz:<br>
+
+Amikor megvásároltam Traminit iszonyú boldog voltam, hogy végre nekem is lehet saját lovam. Megpróbáltam szeretni és mindent megadni neki. Az elején azt gondoltam, hogy majd az idő segít abban, hogy megértsük egymást és elboldoguljak vele. Egy év elteltével azonban a helyzet egyre csak rosszabbá vált. Nehézséget okozott az is gyakran, hogy megpucoljam, vagy kivezessem a karámból. Eljutottam odáig, hogy terepre sem tudtam vele kimenni. Frusztrált és csalódott voltam. A környezetemben lévő emberek azt tanácsolták, hogy adjam el, mert ez nem egy nekem való ló. Nagy nehezen rászántam magam, hogy feladjak egy hirdetést, de amikor az első érdeklodő felhívott már úgy gondoltam valami más megoldást kellene találni. Új edzőket kerestem. Több edző is eljött, hogy kipróbáljuk egymást, de nem éreztem azt egyiknél sem, hogy megoldást tudna a problémáinkra.<br>
+Tudomásomra jutott, hogy van egy módszer, amely az ilyen és ehhez hasonló problémákra megoldást tud nyújtani és Gödöllőn lesz egy tanfolyam. Rögtön döntöttem, hogy elviszem a lovamat erre a tanfolyamra.<br>
+
+Milyen változást okozott lovamban és bennem a váltás: (mit tudok ma megcsinálni lovammal, amit régen nem tudtam, de szerettem volna)<br>
+ 
+Úgy tudom szeretni a lovamat, hogy azt Ő is érzi. Számtalan dologra meg tudom kérni. Minden együtt eltöltött percet élvezek, és úgy érzem, hogy folyamatosan tanulunk egymástól, fejlődik a kapcsolatunk.<br>
+Lovam jön oda hozzám a karámban. Vezető szár nélkül hozom-viszem a tanyán.<br>
+Kötőféken ki tudok menni terepre, akár egyedül, akár több ló társaságában is.<br>
+
+Milyen céljaim voltak, vannak lovammal, magammal kapcsolatban:<br>
+
+Legfobb célom az volt, hogy élvezzük mindketten az együtt eltöltött időt.<br>
+Minél többet megtanulni az edzőmtol a lovakról, a módszerről, fejleszteni a kommunikációmat. Elérni, hogy lovam első számú társának érezzen és a teljes biztonságot jelentse jelenlétem a számára. És ha eljön ez az idő szeretnék díjugrató versenyeken elindulni. Szeretnék majd saját csikóval és minél több lóval foglalkozni.<br>
+<br><br>
+<?php include ('copyright'); ?>
+</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+</body>
+
+</html>
